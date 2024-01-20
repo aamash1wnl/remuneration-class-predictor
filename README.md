@@ -24,6 +24,8 @@ The following R libraries were used in this project:
 ## Dataset Overview
 The dataset consists of demographic and employment-related information, including features such as age, education, marital status, occupation, and more.
 
+Link to dataset: https://archive.ics.uci.edu/dataset/2/adult
+
 ```
 # Load necessary libraries
 library(dplyr)
